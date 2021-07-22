@@ -1,0 +1,8 @@
+com\sg\ramimans\dvdlibrary\dao\DVDLibraryDao.class
+com\sg\ramimans\dvdlibrary\dao\DVDLibraryDaoFileImpl.class
+com\sg\ramimans\dvdlibrary\ui\DVDLibraryView.class
+com\sg\ramimans\dvdlibrary\ui\UserIOConsoleImpl.class
+com\sg\ramimans\dvdlibrary\dvdlibrary\App.class
+com\sg\ramimans\dvdlibrary\controller\DVDLibraryController.class
+com\sg\ramimans\dvdlibrary\ui\UserIO.class
+com\sg\ramimans\dvdlibrary\dto\DVD.class
